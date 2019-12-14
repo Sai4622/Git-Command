@@ -1,0 +1,2 @@
+Hai
+Django is a Web Framwork to Develo Web Pages
