@@ -1,2 +1,3 @@
 Hai
-Django is a Web Framwork to Develo Web Pages
+Django is a Framework is used too developed Wedpage 
+In Pyhton Django Will play a main Role
