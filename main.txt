@@ -1,4 +1,15 @@
 HAi Everone 
 This is Saiteja
 This is My First line Of the Command
+Today Topic is on Git bash
+How to Send the Data in Git Hub 
+By using The Git bash Command Line 
+We can Send the Data and 
+Image and Video By using The Git bash Command line 
+in Formation of the Python programing line
+Python is the Main Use In the Formation of the Prohgraming Language
+Djangoo is Framework For Developing the Frame work in the fromation of the 
+WebDeveloping the 
+Pyhton is the Main using in the Programing Language 
+
 
